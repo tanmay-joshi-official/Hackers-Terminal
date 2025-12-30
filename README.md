@@ -1,7 +1,7 @@
 # Hacker's Terminal Simulator 💻🟢
 
 Welcome to my **Hacker's Terminal Simulator** mini project!  
-This is a **fun JavaScript project** that simulates a hacker terminal with sequential messages and blinking dots. Totally safe — no real hacking involved 😈
+This is a **fun JavaScript project** that simulates a hacker's terminal with sequential messages and blinking dots. Totally safe — no real hacking involved 😈
 
 ---
 
@@ -13,6 +13,12 @@ This is a **fun JavaScript project** that simulates a hacker terminal with seque
 - Random delay between lines to make it **realistic**  
 - The **last line blinks forever**  
 - Starts only when you click the **"Don't Click"** button  
+
+---
+
+## Preview 🎥
+
+[Hacker Terminal Preview](https://github.com/user-attachments/assets/00a92fb5-5237-4ab1-a96a-5f4352fa158a)
 
 ---
 
@@ -40,18 +46,12 @@ No frameworks, just **vanilla JS**.
 ## 📁 Project Structure
 
 ```
-Hacker-Terminal-Simulator/
+Hackers-Terminal-Simulator/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
----
-
-## Preview 🎥
-
-[Hacker Terminal Preview](https://github.com/user-attachments/assets/00a92fb5-5237-4ab1-a96a-5f4352fa158a)
-
 ---
 
 ## ⭐ Conclusion
